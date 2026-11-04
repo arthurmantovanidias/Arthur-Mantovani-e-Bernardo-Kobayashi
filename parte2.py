@@ -1,3 +1,4 @@
+from parte1 import define_posicoes
 
 def preenche_frota(frota, nome_navio, linha, coluna, orientacao, tamanho):
     posicoes = define_posicoes(linha, coluna, orientacao, tamanho)
