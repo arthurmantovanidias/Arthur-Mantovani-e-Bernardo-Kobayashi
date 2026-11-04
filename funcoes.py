@@ -1,6 +1,7 @@
 import random
 
 from funcoes import (
+    define_posicoes,
     preenche_frota,
     posicao_valida,
     posiciona_frota,
